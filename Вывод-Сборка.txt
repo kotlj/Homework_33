@@ -1,0 +1,5 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: Homework_33, Конфигурация: Debug x64 ------
+1>Homework_33.cpp
+1>Homework_33.vcxproj -> C:\Users\crotl_000\source\repos\Homework_33\x64\Debug\Homework_33.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
